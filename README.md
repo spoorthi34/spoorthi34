@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spoorthi34
+- 👋 Hi, I’m Spoorthi K.P.
 - 👀 I’m interested in web development,enthusiastic software learner
 - 🌱 I’m currently learning ...java and OOPS
 - 💞️ I’m looking to collaborate on ...
