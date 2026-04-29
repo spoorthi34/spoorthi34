@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Spoorthi K.P.
-- 👀 I’m interested in web development,enthusiastic software learner
-- 🌱 I’m currently learning ...java and OOPS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I’m **Spoorthi K.P.** 💻✨
 
-<!---
-spoorthi34/spoorthi34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌱 I’m currently learning Agentic Systems, OpenCV, and Backend Development
+
+👨‍💻 I’m currently working on hackathon projects focused on solving real-world problems
+
+💬 Ask me about Java, OOPS, Backend, and AI concepts
+
+⚡ Fun fact: I love turning ideas into impactful solutions 🚀
